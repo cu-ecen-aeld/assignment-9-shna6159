@@ -2,12 +2,12 @@
 LICENSE = "MIT"
 LIC_FILES_CHKSUM = "file://${COMMON_LICENSE_DIR}/MIT;md5=0835ade698e0bcf8506ecda2f7b4f302"
 
-SRC_URI = "git://github.com/cu-ecen-aeld/assignments-3-and-later-d4d0o.git;protocol=https;branch=master \
+SRC_URI = "git://github.com/cu-ecen-aeld/assignments-3-and-later-shna6159.git;protocol=https;branch=main \
            file://S99aesdchar \
            "
 
 PV = "1.0+git${SRCPV}"
-SRCREV = "89cf91410f7522cbb6485fd6068fe5c53adf22c3"
+SRCREV = "201d184b995ca0d4b11c80bd049b5cbbd38df1ad"
 
 S = "${WORKDIR}/git/aesd-char-driver"
 
